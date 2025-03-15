@@ -17,16 +17,16 @@ function atualizarLista() {
     let lista = document.getElementById("listaAmigos");
     lista.innerHTML = "";
 
-    amigos.forEach(amigo => {
+    for (let i = 0; i < amigos.length; i++) {
         let item = document.createElement("li");
-        item.textContent = amigo;
+        item.textContent = amigos[i];
         lista.appendChild(item);
-    });
+    }
 }
 
 function sortearAmigo() {
     if (amigos.length == 0) {
-        alert("A lista de amigos está vazia! Adicione nomes antes de sortear.");
+        alert("A lista de amigos está vazia, envie os nomes antes de sortear!.");
         return;
     }
 
