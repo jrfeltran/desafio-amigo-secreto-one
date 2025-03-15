@@ -1,37 +1,32 @@
-﻿# Desafio do Amigo Secreto ONE
- 
-Sobre o Projeto
+Aqui está uma versão melhorada e mais bonita da descrição do seu projeto:  
 
-Este projeto é uma aplicação simples em JavaScript para sortear um amigo secreto. Os usuários podem adicionar nomes a uma lista e, posteriormente, sortear um nome aleatório.
+---
 
-Funcionalidades
+# 🎉 Sorteador de Amigo Secreto  
 
-Adicionar nomes à lista de amigos
+Uma aplicação simples e divertida para sortear um amigo secreto! Adicione nomes à lista e descubra quem será o sorteado.  
 
-Exibir a lista de amigos cadastrados
+## ✨ Funcionalidades  
 
-Sortear um nome aleatório entre os amigos
+✔ Adicionar nomes à lista de participantes  
+✔ Visualizar a lista de amigos cadastrados  
+✔ Sortear um nome aleatoriamente  
+✔ Exibir o resultado do sorteio na tela  
 
-Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas  
 
-HTML
+🔹 **HTML** – Estrutura da aplicação  
+🔹 **CSS** – Estilização e layout  
+🔹 **JavaScript** – Lógica do sorteio e interatividade  
 
-CSS
+## 🎯 Como Usar  
 
-JavaScript
+1️⃣ Digite o nome de um amigo no campo de entrada e clique em **"Adicionar"**.  
+2️⃣ Acompanhe a lista de participantes cadastrados.  
+3️⃣ Clique no botão **"Sortear"** para selecionar um nome aleatoriamente.  
+4️⃣ O nome sorteado será exibido na tela! 🎁  
 
-Como Usar
+## ⚠ Possíveis Problemas e Soluções  
 
-Insira o nome de um amigo no campo de entrada e clique no botão "Adicionar".
-
-Veja a lista atualizada com os amigos cadastrados.
-
-Clique no botão "Sortear" para selecionar um amigo aleatoriamente.
-
-O nome sorteado será exibido na tela.
-
-Possíveis Problemas
-
-Se a lista estiver vazia ao tentar sortear, um alerta será exibido pedindo para adicionar nomes antes de sortear.
-
-Caso o usuário tente adicionar um nome em branco, um alerta será exibido pedindo para inserir um nome válido.
+🚨 **Lista vazia?** Se tentar sortear sem participantes, um alerta pedirá para adicionar nomes primeiro.  
+🚨 **Nome em branco?** O sistema impede cadastros vazios e solicita a inserção de um nome válido. 
