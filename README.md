@@ -1,7 +1,3 @@
-Aqui está uma versão melhorada e mais bonita da descrição do seu projeto:  
-
----
-
 # 🎉 Sorteador de Amigo Secreto  
 
 Uma aplicação simples e divertida para sortear um amigo secreto! Adicione nomes à lista e descubra quem será o sorteado.  
